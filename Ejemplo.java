@@ -10,7 +10,7 @@ public class Ejemplo {
     
     // Ejecución de la funcion sumar
     public static void main(String[] args) {
-        int resultado = sumar(15, 333)
+        int resultado = sumar(15, 333);
         System.out.print("resultado");
     }
 }
